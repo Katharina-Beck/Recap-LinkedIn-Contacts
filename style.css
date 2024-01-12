@@ -1,0 +1,9 @@
+html {
+  display: block;
+}
+
+body {
+  margin: 0px;
+  height: 100%;
+  background-color: rgb(14, 14, 14);
+}
